@@ -1,2 +1,2 @@
-# APMB
+# APBM
 Augment physics-based models
