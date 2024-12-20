@@ -1,11 +1,18 @@
 # APBM
 Augment physics-based models
 
-Code for the IEEE TAES paper:  
+Code for the simulations in IEEE TAES paper:  
 
-T. Imbiriba, O. Straka, J. Duník and P. Closas, "Augmented physics-based machine learning for navigation and tracking," in IEEE Transactions on Aerospace and Electronic Systems, doi: 10.1109/TAES.2023.3328853.
+Imbiriba, T., Straka, O., Duník, J. and Closas, P., 2023. Augmented physics-based machine learning for navigation and tracking. IEEE Transactions on Aerospace and Electronic Systems.
 
 https://ieeexplore.ieee.org/abstract/document/10302385
+
+
+More details about APBM can also be found in:
+
+Imbiriba, T., Demirkaya, A., Duník, J., Straka, O., Erdoğmuş, D. and Closas, P., 2022, July. Hybrid neural network augmented physics-based models for nonlinear filtering. In 2022 25th International Conference on Information Fusion (FUSION) (pp. 1-6). IEEE.
+
+https://arxiv.org/pdf/2204.06471
 
 Run pvtdata_sim.m for the experiments with real data. 
 
